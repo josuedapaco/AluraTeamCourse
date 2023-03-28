@@ -1,2 +1,2 @@
 # AluraTeamCourse
-Curso de Inmersion de Datps
+Curso de Inmersion de Datos
